@@ -1,7 +1,7 @@
 <img src="papers.png" align="right" />
 
 # Awesome CONTRASTIVE LEARNING [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A comprehensive list of awesome contrastive self-supervised learning papers.
+> A comprehensive list of awesome self-supervised video representation learning papers.
 
 ## PAPERS
 
@@ -65,13 +65,9 @@
 
 #### 2017 and Older
 
-- [ ] [2017: Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
-- [ ] [2017: Multi-task Self-Supervised Visual Learning](https://arxiv.org/abs/1708.07860)
-- [ ] [2017: Unsupervised learning  of  visual  representations  by  solving  jigsawpuzzles](https://arxiv.org/abs/1603.09246)
-- [ ] [2015: Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)
-- [ ] [2010: Noise-contrastive estimation: A new estimation principle for unnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf)
-
-
+- [ ] [2017: Time-Contrastive Networks: Self-Supervised Learning from Video (ICRA 2017)](https://arxiv.org/abs/1704.06888)
+- [ ] [2017: Self-supervised video representation learning with odd-one-out networks](https://openaccess.thecvf.com/content_cvpr_2017/html/Fernando_Self-Supervised_Video_Representation_CVPR_2017_paper.html)
+- [ ] [2016: Shuffle and Learn: Unsupervised Learning using Temporal Order Verification (ECCV 2016)](https://arxiv.org/abs/1603.08561)
 #### REFERENCES
 
 - [Blog: Contrastive Self-Supervised Learning](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
