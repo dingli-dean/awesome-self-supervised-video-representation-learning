@@ -12,62 +12,26 @@
 
 #### 2020
 
-- [ ] [2020: CASTing Your Model: Learning to Localize Improves Self-Supervised Representations](https://arxiv.org/pdf/2012.04630.pdf)
-- [ ] [2020: Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)
-- [ ] [2020: FROST: Faster and more Robust One-shot Semi-supervised Training](https://arxiv.org/abs/2011.09471)
-- [ ] [2020: Hard Negative Mixing for Contrastive Learning](https://arxiv.org/abs/2010.01028)
-- [ ] [2020: Representation Learning via Invariant Causal Mechanisms](https://arxiv.org/abs/2010.07922)
-- [ ] [2020: Are all negatives created equal in contrastive instance discrimination?](https://arxiv.org/abs/2010.06682)
-- [ ] [2020: Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
-- [ ] [2020: Spatiotemporal Contrastive Video Representation Learning](https://arxiv.org/abs/2008.03800)
-- [ ] [2020: Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition](https://arxiv.org/abs/2008.00188)
-- [ ] [2020: Deep Robust Clustering by Contrastive Learning](https://arxiv.org/abs/2008.03030)
-- [ ] [2020: Contrastive Learning for Unpaired Image-to-Image Translation](https://arxiv.org/abs/2007.15651)
-- [ ] [2020: Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases](https://arxiv.org/abs/2007.13916)
-- [ ] [2020: What Should Not Be Contrastive in Contrastive Learning](https://arxiv.org/abs/2008.05659)
-- [ ] [2020: Self-supervised Video Representation Learning Using Inter-intra Contrastive Framework](https://arxiv.org/abs/2008.02531)
-- [ ] [2020: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882)
-- [ ] [2020: Prototypical Contrastive Learning of Unsupervised Representations](https://arxiv.org/abs/2005.04966)
-- [ ] [2020: GraphCL: Contrastive Self-Supervised Learning of Graph Representations](https://arxiv.org/abs/2007.08025)
-- [ ] [2020: DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659)
-- [ ] [2020: Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](https://arxiv.org/abs/2005.10389)
-- [ ] [2020: CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/abs/2005.12766)
-- [ ] [2020: Deep Graph Contrastive Representation Learning](https://arxiv.org/abs/2006.04131v1)
-- [ ] [2020: CLOCS: Contrastive Learning of Cardiac Signals](https://arxiv.org/abs/2005.13249v1)
-- [ ] [2020: On Mutual Information in Contrastive Learning for Visual Representations](https://arxiv.org/abs/2005.13149v2)
-- [ ] [2020: What makes for good views for contrastive learning](https://arxiv.org/abs/2005.10243v1)
-- [ ] [2020: CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://arxiv.org/abs/2004.04136v2)
-- [ ] [2020: Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362v1)
-- [ ] [2020: Clustering based Contrastive Learning for Improving Face Representations](https://arxiv.org/abs/2004.02195v1)
-- [ ] [2020: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf)
-- [ ] [2020: Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297v1)
+- [ ] [2020: RSPNet: Relative Speed Perception for Unsupervised Video Representation Learning](https://arxiv.org/abs/2011.07949)
+- [ ] [2020: Video Representation Learning with Visual Tempo Consistency](https://arxiv.org/abs/2006.15489)
 
 #### 2019
 
-- [ ] [2019: Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
-- [ ] [2019: Transferable Contrastive Network for Generalized Zero-Shot Learning](https://arxiv.org/abs/1908.05832v1)
-- [ ] [2019: MoCo: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
-- [ ] [2019: Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/pdf/1912.01991.pdf)
-- [ ] [2019: Selfie: Self-supervised Pretraining for Image Embedding](https://arxiv.org/abs/1906.02940)
-- [ ] [2019: Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
-- [ ] [2019: Local Aggregation for Unsupervised Learning of Visual Embeddings](https://arxiv.org/abs/1903.12355)
-- [ ] [2019: Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)
-- [ ] [2019: Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
-- [ ] [2019: Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://arxiv.org/abs/1904.03436)
-- [ ] [2019: Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/abs/1807.06653)
-- [ ] [2019: A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/abs/1902.09229)
+- [ ] [2019: Self-supervised spatio-temporal representation learning for videos by predicting motion and appearance statistics (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Self-Supervised_Spatio-Temporal_Representation_Learning_for_Videos_by_Predicting_Motion_and_CVPR_2019_paper.html)
+- [ ] [2019: Self-supervised spatiotemporal learning via video clip order prediction (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Xu_Self-Supervised_Spatiotemporal_Learning_via_Video_Clip_Order_Prediction_CVPR_2019_paper.html)
 
 #### 2018
 
-- [ ] [2018: Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)
+- [ ] [2018: Self-supervised spatiotemporal feature learning via video rotation prediction](https://arxiv.org/abs/1811.11387)
 - [ ] [2018: Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
-- [ ] [2018: Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination](https://arxiv.org/abs/1805.01978)
 
 #### 2017 and Older
 
 - [ ] [2017: Time-Contrastive Networks: Self-Supervised Learning from Video (ICRA 2017)](https://arxiv.org/abs/1704.06888)
-- [ ] [2017: Self-supervised video representation learning with odd-one-out networks](https://openaccess.thecvf.com/content_cvpr_2017/html/Fernando_Self-Supervised_Video_Representation_CVPR_2017_paper.html)
+- [ ] [2017: Self-supervised video representation learning with odd-one-out networks (CVPR 2017)](https://openaccess.thecvf.com/content_cvpr_2017/html/Fernando_Self-Supervised_Video_Representation_CVPR_2017_paper.html)
+- [ ] [2017: Unsupervised learning of long-term motion dynamics for videos (CVPR 2017)](https://openaccess.thecvf.com/content_cvpr_2017/html/Luo_Unsupervised_Learning_of_CVPR_2017_paper.html)
 - [ ] [2016: Shuffle and Learn: Unsupervised Learning using Temporal Order Verification (ECCV 2016)](https://arxiv.org/abs/1603.08561)
+- [ ] [2016: Anticipating visual representations from unlabeled video (CVPR 2016)](https://openaccess.thecvf.com/content_cvpr_2016/html/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.html)
 #### REFERENCES
 
 - [Blog: Contrastive Self-Supervised Learning](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
