@@ -7,6 +7,7 @@
 
 #### Surveys and Reviews
 
+- [ ] [2020: A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567)
 - [ ] [2020: A Survey on Contrastive Self-Supervised Learning](https://arxiv.org/abs/2011.00362)
 - [ ] [2020: Contrastive Representation Learning: A Framework and Review](https://arxiv.org/abs/2010.05113)
 
@@ -49,5 +50,6 @@
 - [ ] [2016: Anticipating visual representations from unlabeled video (CVPR 2016)](https://openaccess.thecvf.com/content_cvpr_2016/html/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.html)
 #### REFERENCES
 
+- [Github: Awesome-contrastive-self-supervised-learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
 - [Blog: Contrastive Self-Supervised Learning](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
 - [Github: Awesome-Contrastive-Learning](https://github.com/HobbitLong/PyContrast/blob/master/AWESOME_CONTRASTIVE_LEARNING.md)
